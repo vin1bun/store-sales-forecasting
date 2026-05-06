@@ -2,6 +2,8 @@
 
 ### 🔗 [Live App](https://store-sales-forecasting-hosig7yav6sekcchgkrkkk.streamlit.app/) | [GitHub](https://github.com/vin1bun) | [LinkedIn](https://linkedin.com/in/vineetprakash03)
 
+<img width="1892" height="802" alt="image" src="https://github.com/user-attachments/assets/9c14bd3c-9669-4874-b9fe-a0eb6accea3a" />
+
 > Predict daily retail sales across 54 stores and 33 product families using Prophet, XGBoost and ARIMA — with a live interactive dashboard built on real Ecuador grocery chain data.
 
 ---
