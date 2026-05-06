@@ -33,7 +33,7 @@ page = st.sidebar.radio("Navigate", [
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 👨‍💻 Created by")
 st.sidebar.markdown("## Vineet Prakash")
-st.sidebar.markdown("Aspiring Data Scientist")
+st.sidebar.markdown("Data Scientist")
 
 if page == "📊 Sales Dashboard":
     st.title("📊 Sales Dashboard")
