@@ -103,7 +103,7 @@ store-sales-forecasting/
 
 ## 👨‍💻 Author
 
-**Vineet Prakash** — Aspiring Data Scientist
+**Vineet Prakash** —  Data Scientist
 
 [GitHub](https://github.com/vin1bun) | [LinkedIn](https://linkedin.com/in/vineetprakash03) | [Live App](https://store-sales-forecasting-hosig7yav6sekcchgkrkkk.streamlit.app/)
 
